@@ -1,5 +1,3 @@
-# Código Limpo - Att. Eduardo
-
 import matplotlib.pyplot as plt
 
 class Menu:
